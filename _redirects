@@ -1,0 +1,3 @@
+# Cloudflare Pages redirects
+/book    https://cohostr.com    302
+/book/*  https://cohostr.com    302
